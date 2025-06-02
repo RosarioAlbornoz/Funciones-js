@@ -1,4 +1,4 @@
-# Prueba-2
+# Funciones
 Uso del Alerta :
 Como funciona? Escribimos la palabra reservada "alert" y adentro, entre parentesis y con comillas ( o sea con un string) escribimos el mensaje que queremos dar.
 Pienso que es util en la seccion de este proyecto porque puede el usuario puede tener alguna duda que aqui no este despejada y me parece una buena forma de enfatizar que puede comunicarse para despearla.
